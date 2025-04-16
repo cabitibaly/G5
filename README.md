@@ -22,6 +22,12 @@
 
 ---
 
+## Page Contact
+
+![Acceuil](./Contact.jpg)
+
+---
+
 ## Page Article
 
 ![Acceuil](./Article.jpg)
